@@ -1,16 +1,20 @@
-### Hi there 👋
+# Raurava Naraka
 
-<!--
-**RauravaNaraka/RauravaNaraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Independent Software Developer | Python & Machine Learning Specialist*
 
-Here are some ideas to get you started:
+Hey there! 👋 I'm Raurava Naraka, an independent software developer with a passion for Python and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+
+- **Python**
+- **Machine Learning**
+- **Data Analysis**
+
+## Let's Connect!
+
+Have a challenging project requiring Python and Machine Learning expertise? Reach out to me at [jcolljeyce@gmail.com](mailto:jcolljeyce@gmail.com).
+
+Looking forward to collaborating with you!
+
+Best regards,  
+Raurava Naraka
